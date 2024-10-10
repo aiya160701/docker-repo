@@ -1,2 +1,2 @@
 # docker-repo
-This a repository for docker homeworks 2024. 
+This is a repository for docker homeworks 2024. 
